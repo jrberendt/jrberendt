@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there!
+[![jrberendt's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrberendt&count_private=true&show_icons=true&hide=stars&theme=vue)](https://github.com/jrberendt/github-readme-stats)
 
 <!--
 **jrberendt/jrberendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![jrberendt's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrberendt&count_private=true&show_icons=true&hide=stars&theme=vue)](https://github.com/jrberendt/github-readme-stats)
 
 Here are some ideas to get you started:
 
